@@ -1,7 +1,5 @@
-# SFE-EANDS
-SFE-EANDS: A Simple, Fast, and Efficient Algorithm with External Archive and Normalized Distance-based Selection for High-Dimensional Feature Selection
-
-Necessary packages: opfunu and enoppy.
+# SFE-EANDS  
+SFE-EANDS: A Simple, Fast, and Efficient Algorithm with External Archive and Normalized Distance-based Selection for High-Dimensional Feature Selection  
 
 @article{Zhong:24,  
   title={SFE-EANDS: A Simple, Fast, and Efficient Algorithm with External Archive and Normalized Distance-based Selection for High-Dimensional Feature Selection},  
