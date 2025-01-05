@@ -7,7 +7,7 @@ SFE (i.e., Simple, Fast, and Efficient) is a novel evolutionary approach to deal
 ## Citation
 @article{Zhong:24,  
   title={SFE-EANDS: A Simple, Fast, and Efficient Algorithm with External Archive and Normalized Distance-based Selection for High-Dimensional Feature Selection},  
-  author={Rui Zhong, Yang Cao, Essam H. Houssein, Jun Yu, Masaharu Munetomo},  
+  author={Rui Zhong and Yang Cao and Essam H. Houssein and Jun Yu and Masaharu Munetomo},  
   journal={Cluster Computing},  
   pages={},  
   year={2025},  
