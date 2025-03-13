@@ -18,3 +18,6 @@ SFE (i.e., Simple, Fast, and Efficient) is a novel evolutionary approach to deal
 
 ## Datasets and Libraries
 The datasets can be downloaded from http://csse.szu.edu.cn/staff/zhuzx/datasets.html, https://jundongl.github.io/scikitfeature/datasets.html, https://figshare.com/articles/dataset/Microarray_data_rar/7345880/2, and https://file.biolab.si/biolab/supp/bicancer/projections/info/gastricGSE2685.html.
+
+## Contact
+If you have any questions, please don't hesitate to contact zhongrui[at]iic.hokudai.ac.jp
