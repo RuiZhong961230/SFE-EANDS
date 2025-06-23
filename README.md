@@ -12,7 +12,8 @@ SFE (i.e., Simple, Fast, and Efficient) is a novel evolutionary approach to deal
   pages={1-24},  
   year={2025},  
   volume={28},  
-  publisher={Springer}  
+  publisher={Springer},  
+  doi={https://doi.org/10.1007/s10586-024-04988-1 }  
 }
 
 ## Datasets and Libraries
